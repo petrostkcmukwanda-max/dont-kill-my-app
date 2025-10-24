@@ -1,3 +1,4 @@
+itel 
 ---
 manufacturer:
     - general
